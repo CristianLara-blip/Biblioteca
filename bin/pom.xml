@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>upeu.edu.pe</groupId>
-	<artifactId>py_biblioteca</artifactId>
+	<artifactId>py_ventas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>py_biblioteca</name>
+	<name>py_ventas</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
